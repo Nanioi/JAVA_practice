@@ -1,8 +1,9 @@
 # JAVA_practice
 
-#### - JAVA 예제 및 문제풀이
+### - JAVA 예제 및 문제풀이
 
-#### - 두더지잡기 게임 프로젝트
+### - 두더지잡기 게임 프로젝트
+#### 2019.11.15 ~ 2019.12.09
 
 ##### 게임시작
 <img src = "https://user-images.githubusercontent.com/52556870/114353917-8a2dcb00-9ba8-11eb-8432-9dd879eed902.png" width="200">
